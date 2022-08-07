@@ -2,8 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Projects uses features of @reduxjs/toolkit library and its recommended approaches
+See documentation at:
+https://redux.js.org/tutorials/fundamentals/part-8-modern-redux
 
+## Available Scripts
 In the project directory, you can run:
 
 ### `npm start`
